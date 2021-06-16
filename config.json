@@ -1,10 +1,10 @@
 {
-    "clientid": "ID-HERE",
-    "largeimage": "NAME-OF-LARGE-IMAGE",
-    "largetext": "TEXT-OVER-THE-IMAGE",
-    "details": "SIMPLE-DETAILS",
-    "button1": "BUTTON-1-NAME",
-    "url1": "URL-REDIRECTS-ON-BUTTON-1",
-    "button2": "BUTTON-2-NAME",
-    "url2": "URL-REDIRECTS-ON-BUTTON-2"
+    "clientid": "854819888170663966",
+    "largeimage": "big",
+    "largetext": "HACKER",
+    "details": "coding bots",
+    "button1": "SWEEPY",
+    "url1": "https://discord.com/oauth2/authorize?client_id=833027944279965787&scope=bot%20applications.commands&permissions=2147483647",
+    "button2": "JAY MUSIC",
+    "url2": "https://discord.com/api/oauth2/authorize?client_id=850994888694824980&permissions=0&scope=bot"
 }
